@@ -30,8 +30,7 @@ to initiate a conversation about custom audio work for your own project needs.
 Thanks to @[SK]Cody for providing the self-promo opportunity to give back to the community & the awesome UE5 "Nacht der Untoten" remake.
 
 --------------------------------
-* (except for the "ZomB_Crow1" which was downloaded from Freesound and then edited)
+*(except for the "ZomB_Crow1" which was downloaded from Freesound and then edited)
 Angry Hooded Crow (Hoodie) (Corvus cornix) by Walking.With.Microphones -- https://freesound.org/s/556219/ -- License: Creative Commons 0
-** otherwise the encoded ZomB summoning voodoo will find you! vVvVv
 
 --------------------------------
